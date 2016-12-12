@@ -4,6 +4,7 @@
 public class holamon {
     public static void main(String[] args) {
         printholas();
+        System.out.println("test");
     }
 
     public static void printholas() {

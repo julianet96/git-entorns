@@ -7,7 +7,7 @@ public class holamon {
     }
 
     public static void printholas() {
-        System.out.println("hola mon com anam");
+        System.out.println("hola mon ");
     }
 }
 

@@ -3,6 +3,11 @@
  */
 public class holamon {
     public static void main(String[] args) {
+        printhola();
+    }
+
+    public static void printhola() {
         System.out.println("hola mon");
     }
 }
+
